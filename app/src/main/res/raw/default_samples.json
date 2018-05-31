@@ -1,0 +1,64 @@
+{
+  "samples": [
+    {
+      "name": "OSS 117 - Le Mossad",
+      "path": "oss_117_mossad",
+      "default": "true"
+    },
+    {
+      "name": "Matrix - Les pillules",
+      "path": "matrix_pillules",
+      "default": "true"
+    },
+    {
+      "name": "Demolition Man - Les 3 coquillages",
+      "path": "demolition_man_coquillages",
+      "default": "true"
+    },
+    {
+      "name": "OSS 117 - La secrétaire",
+      "path": "oss_117_secretaire",
+      "default": "true"
+    },
+    {
+      "name": "Snatch - Les chiens",
+      "path": "snatch_chiens",
+      "default": "true"
+    },
+    {
+      "name": "Bernie - Les hyènes",
+      "path": "bernie_hyenes",
+      "default": "true"
+    },
+    {
+      "name": "OSS 117 - L'amicale d'ancien Nazi",
+      "path": "oss_117_amicale_ancien_nazi",
+      "default": "true"
+    },
+    {
+      "name": "Full Metal Jacket - Deuxième pompe",
+      "path": "full_metal_jacket_deuxieme_pompe",
+      "default": "true"
+    },
+    {
+      "name": "La Haine - C'est à moi que tu parles ?",
+      "path": "la_haine_cest_a_moi_que_tu_parles",
+      "default": "true"
+    },
+    {
+      "name": "Pulp Fiction - Ezchiel 25 Verset 10",
+      "path": "pulp_fiction_ezechiel",
+      "default": "true"
+    },
+    {
+      "name": "Nos jours heureux - Le roi des cons",
+      "path": "nos_jours_heureux_roi_des_cons",
+      "default": "true"
+    },
+    {
+      "name": "Le 5ème élément - Multipass",
+      "path": "le_cinquieme_element_multipass",
+      "default": "true"
+    }
+  ]
+}
